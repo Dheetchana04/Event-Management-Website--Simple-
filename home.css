@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.logo {
+    font-size: 22px;
+}
+
+.nav-links a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+/* HERO SECTION */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 80px;
+    background-color: white;
+}
+
+.hero-text h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.hero-text p {
+    font-size: 18px;
+    margin-bottom: 25px;
+    color: #555;
+}
+
+.hero-buttons .btn {
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.primary {
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.secondary {
+    border: 2px solid #1e3a8a;
+    color: #1e3a8a;
+}
+
+.primary:hover,
+.secondary:hover {
+    opacity: 0.85;
+}
+
+.hero-image img {
+    width: 400px;
+}
+
+/* FEATURES SECTION */
+.features {
+    padding: 60px 80px;
+    text-align: center;
+}
+
+.features h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+/* EVENT CARDS SECTION */
+.events-section {
+    padding: 60px 80px;
+    text-align: center;
+    background-color: #eef2f8;
+}
+
+.events-section h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.events {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+/* CARDS COMMON STYLES */
+.card {
+    background-color: white;
+    padding: 30px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+
+.card i {
+    font-size: 35px;
+    color: #1e3a8a;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.card p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.card a.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #1e3a8a;
+    color: #1e3a8a;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.card a.btn:hover {
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e3a8a;
+    color: white;
+    margin-top: 40px;
+}
