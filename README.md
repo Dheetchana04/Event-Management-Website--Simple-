@@ -40,6 +40,14 @@ This project includes:
 
 > Currently frontend only. Backend integration can be added in future.
 
+## 📸 Preview
+
+![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120045.png)
+![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120026.png)
+![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120008.png)
+![Homepage Screenshot](screenshots/Screenshot 2026-02-16 115947.png)
+
+
 ## 🚀 How to Use
 
 1. Clone the repo
