@@ -40,14 +40,6 @@ This project includes:
 
 > Currently frontend only. Backend integration can be added in future.
 
-## 📸 Preview
-
-![Homepage Screenshot](screenshots/screenshot-1.png)
-![Login Page](screenshots/screenshot-2.png)
-![Signup Page](screenshots/screenshot-3.png)
-![Events Page](screenshots/screenshot-4.png)
-
-
 
 ## 🚀 How to Use
 
