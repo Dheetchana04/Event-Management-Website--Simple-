@@ -42,10 +42,11 @@ This project includes:
 
 ## 📸 Preview
 
-![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120045.png)
-![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120026.png)
-![Homepage Screenshot](screenshots/Screenshot 2026-02-16 120008.png)
-![Homepage Screenshot](screenshots/Screenshot 2026-02-16 115947.png)
+![Homepage Screenshot](screenshots/screenshot-1.png)
+![Login Page](screenshots/screenshot-2.png)
+![Signup Page](screenshots/screenshot-3.png)
+![Events Page](screenshots/screenshot-4.png)
+
 
 
 ## 🚀 How to Use
